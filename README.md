@@ -1,3 +1,3 @@
 # daily_report
-- Daily report in Happiness Chain
+- Daily report
 - Starting July 24, 2023
